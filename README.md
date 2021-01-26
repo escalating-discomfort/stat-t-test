@@ -6,6 +6,6 @@ statTtest.java 150 95 ..\resources\pattern.txt
 ```
 Supplied CLI in order: *μ0, significance level, path to a text file containing the sample*
 
-Numbers in the file can be delimited by commas, semicolons, or spaces; and additional grouped into any amount of lines as newlines are omitted.
+Numbers in the file can be delimited by commas, semicolons, or spaces; and additionally grouped into any amount of lines as newlines are omitted.
 ## Built with
 [**Maven**](https://maven.apache.org/) - Dependency Management
