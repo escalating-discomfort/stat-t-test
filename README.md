@@ -1,4 +1,4 @@
-# stat-z-test
+# stat-t-test
 Runs a statistical T-test on a provided pattern/sample. More info: [Student's T-test](https://en.wikipedia.org/wiki/Student%27s_t-test)
 ## Example
 ```
